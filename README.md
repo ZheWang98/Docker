@@ -1,3 +1,3 @@
 # Docker
-./start noetic_dev_fixed --homedir ./Noetic_Projects/ --name noetic_dev_fixed_instance --rosip 10.104.144.3 --rosmasteruri http://10.104.144.3:11311
+./start noetic_dev_fixed --homedir ./Noetic_Projects/ --name noetic_dev_fixed --rosip 10.104.144.3 --rosmasteruri http://10.104.144.3:11311
 
